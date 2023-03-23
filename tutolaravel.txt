@@ -1,0 +1,2 @@
+https://techsolutionstuff.com/post/how-to-create-crud-operation-in-laravel-10
+https://www.itsolutionstuff.com/post/laravel-10-crud-application-example-tutorialexample.html
